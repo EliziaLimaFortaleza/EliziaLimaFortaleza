@@ -1,6 +1,6 @@
 ## Olá Pessoal! ✋
 
-Sou uma desenvolvedora apaixonada por tecnologia, me aperfeiçoando para me tornar full-stack. 💻❤️
+Sou uma desenvolvedora apaixonada por tecnologia, sempre me aperfeiçoando. 💻❤️
 
 ## Algumas Tecnologias que estudo no dia a dia
 
