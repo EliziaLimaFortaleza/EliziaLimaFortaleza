@@ -4,15 +4,15 @@
 <br>
 
 - 👩‍💻 I'm Elízia Lima Fortaleza, 20 years old
-- 🎓 I'm currently studying Systems Analysis and Development and Technology in Data Management
+- 🎓 I'm currently studying Systems Analysis and Development | Technology in Data Management
 - 💡 Always learning and exploring new tools to build smart and efficient solutions
 
 <br>
 
 <div style="display: inline_block">
     <a href="https://github.com/EliziaLimaFortaleza">
-    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=EliziaLimaFortaleza&show_icons=true&theme=dracula"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliziaLimaFortaleza&hide_progress=true&theme=dracula">
+    <img height="160em" src= "https://github-readme-stats.vercel.app/api?username=EliziaLimaFortaleza&show_icons=true&theme=dracula"> 
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliziaLimaFortaleza&hide_progress=true&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>   
@@ -24,7 +24,6 @@
     <img align= "center" alt="PYTHON" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align= "center" alt="GIT" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img align= "center" alt="SQL" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-          
           
           
 </div>
