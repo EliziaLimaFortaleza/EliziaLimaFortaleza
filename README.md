@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 
-**`Backend Developer`**
+**`Software Developer`**
 <br>
 
 - 👩‍💻 I'm Elízia Lima Fortaleza, 20 years old
