@@ -5,7 +5,6 @@
 
 - 👩‍💻 I'm Elízia Fortaleza, 21 years old
 - 🎓 I'm currently studying Systems Analysis and Development
-- 🛠️ Linux • Networking • Nmap • Burp Suite • OWASP • Python • Web Application Security
 - 🔐 Web Application Security & Pentest
 - 💡 Always learning and improving offensive security skills
 
